@@ -2,7 +2,7 @@
 
 I present to you: **ImgVault**, an application that allows you to store your images on the cloud and save valuable space on your phone/computer. You can also share your images to your socials or other applications!
 
-![ImgVault Meme]()
+![ImgVault Meme](imgvaultMeme.png)
 
 I wanted to challenge myself here and build a cross-platform solution using React-Native and Expo to build out the application. I used Firebase to store images and authenticate users. The application works for iOS, Android and the Web.
 
